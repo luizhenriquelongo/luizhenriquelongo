@@ -12,7 +12,7 @@
 ### About me
 
 - My name is Luiz Henrique, I am a software engineer and currently live in Brazil.
-- I work with development for at least 3 years, I have experience with many technologies but I stand out with Python.
+- I have experience with many technologies but I stand out with Python.
 
 ---
 ### Technologies & Tools
